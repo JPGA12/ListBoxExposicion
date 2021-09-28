@@ -7,7 +7,6 @@ public class Menu {
         listBox = new ListBox();
     }
     public void inicio(){
-
        listBox.setVisible(true);
     }
 }
